@@ -1,5 +1,5 @@
 h1 {
-    background-image: './Resources/pattern.webp';
+    background-image: url('./Resources/pattern.webp');
     font-family: Helvetica;
     font-size: 100px;
     font-weight: bold;
@@ -19,14 +19,14 @@ a {
     color: blue;
 }
 
-.brush {
+h2.brush {
     background-color: mediumspringgreen;
 }
 
-.frame {
+h2.frame {
     background-color: lightcoral;
 }
 
-.paint {
+h2.paint {
     background-color: skyblue;
 }
